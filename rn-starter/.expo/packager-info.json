@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://nk-469.captnkim.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://nk-469.captnkim.rn-starter.exp.direct",
+  "ngrokPid": 981,
+  "webpackServerPort": null,
+  "packagerPid": null
+}
